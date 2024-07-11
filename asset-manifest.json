@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sodonougbo-Martial/OnelineAppReact/static/css/main.843a6459.css",
+    "main.js": "/Sodonougbo-Martial/OnelineAppReact/static/js/main.8b2ab078.js",
+    "static/js/453.edf4c24c.chunk.js": "/Sodonougbo-Martial/OnelineAppReact/static/js/453.edf4c24c.chunk.js",
+    "index.html": "/Sodonougbo-Martial/OnelineAppReact/index.html",
+    "main.843a6459.css.map": "/Sodonougbo-Martial/OnelineAppReact/static/css/main.843a6459.css.map",
+    "main.8b2ab078.js.map": "/Sodonougbo-Martial/OnelineAppReact/static/js/main.8b2ab078.js.map",
+    "453.edf4c24c.chunk.js.map": "/Sodonougbo-Martial/OnelineAppReact/static/js/453.edf4c24c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.843a6459.css",
+    "static/js/main.8b2ab078.js"
+  ]
+}
